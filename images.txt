@@ -7,3 +7,4 @@ xhofe/alist:latest
 cooderl/wewe-rss-sqlite:latest
 diygod/rsshub:latest
 browserless/chrome
+miniflux/miniflux:latest
