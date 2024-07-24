@@ -12,3 +12,4 @@ postgres:15
 dreamacro/clash
 wcjiang/reference
 corentinth/it-tools:latest
+frooodle/s-pdf:latest
