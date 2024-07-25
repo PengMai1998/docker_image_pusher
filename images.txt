@@ -13,3 +13,4 @@ dreamacro/clash
 wcjiang/reference
 corentinth/it-tools:latest
 frooodle/s-pdf:latest
+corentinth/it-tools:latest
