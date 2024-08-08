@@ -16,3 +16,4 @@ frooodle/s-pdf:latest
 corentinth/it-tools:latest
 hywax/mafl
 ghcr.io/gethomepage/homepage:latest
+winterssy/shadowsocksr:latest
