@@ -18,11 +18,3 @@ hywax/mafl
 ghcr.io/gethomepage/homepage:latest
 winterssy/shadowsocksr:latest
 registry.cn-shanghai.aliyuncs.com/usual2970/certimate:latest
-safeline-postgres:15.2
-safeline-mgt-g:latest
-safeline-detector-g:latest
-safeline-mario-g:latest
-safeline-luigi-g:latest
-safeline-fvm-g:latest
-safeline-bridge-g:latest
-safeline-chaos-g:latest
