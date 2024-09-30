@@ -18,4 +18,4 @@ hywax/mafl
 ghcr.io/gethomepage/homepage:latest
 winterssy/shadowsocksr:latest
 registry.cn-shanghai.aliyuncs.com/usual2970/certimate:latest
-appflowy/appflowy:latest
+ghcr.io/toeverything/affine-graphql:stable
